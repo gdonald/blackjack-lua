@@ -39,3 +39,15 @@ luac.out
 *.x86_64
 *.hex
 
+
+# Save file
+bj.txt
+
+# Test scratch files
+tests/tmp/
+
+.DS_Store
+
+# Coverage
+luacov.stats.out
+luacov.report.out
