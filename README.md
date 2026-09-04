@@ -46,7 +46,7 @@ Increase your terminal font size to see the cards better:
 
 ## License
 
-[![GitHub](https://img.shields.io/github/license/gdonald/blackjack-lua?color=aa0000)](https://github.com/gdonald/blackjack-lua/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/github/license/gdonald/blackjack-lua?color=aa0000)](https://github.com/gdonald/blackjack-lua/blob/main/LICENSE)
 
 ### Other Blackjack Implementations:
 
